@@ -1,0 +1,7 @@
+{
+  "name": "BonaFit Personal – Seu Treino com Inteligência",
+  "description": "An intelligent fitness application that monitors cardiovascular health and distance covered during workouts, providing personalized feedback using Gemini to help users and their personal trainers achieve their fitness goals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
